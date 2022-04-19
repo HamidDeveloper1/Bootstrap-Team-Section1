@@ -1,0 +1,123 @@
+h1{
+  margin: 0;
+	padding: 0;
+  text-align: center;
+
+}
+  
+.header h1{
+  margin: 5% auto;
+	font-size: 25px;
+  font-weight: 500;
+  font-weight: 800;
+  font-size: 55px;
+
+}    
+.name1{
+  color: rgb(1, 225, 255);
+}
+
+.name2{
+  color: rgb(43, 218, 241);
+}
+.name3{
+  color: rgb(95, 214, 230);
+}
+.name4{
+  color: rgb(118, 232, 247);
+}
+
+.name5{
+  color: rgb(114, 227, 241);
+}
+
+#left{
+  color: aqua;
+}
+
+#right,icons,icons1{
+  color: aqua;
+}
+#icons{
+  color: aqua;
+}
+#icons1{
+  color: aqua;
+}
+#icons2{
+  color: aqua;
+}
+#icons3{
+  color: aqua;
+}
+#icons4{
+  color: rgb(0, 172, 172);
+}
+
+
+
+.search-box {
+  width: 50%;
+  padding: 1px;
+  box-shadow: 0 1px 20px rgb(1, 225, 255);
+  margin: 300px auto;
+  border-radius: 100px;
+  border: 1px solid #ccc;
+  position: relative;
+  
+}
+
+.search-box input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 75px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+}
+.search-box input:focus{
+  outline: none;
+}
+
+.search-box i{
+  position: absolute;
+}
+
+
+#left{
+  right:45px ;
+  top: 12px;
+
+}
+#right{
+  left: 45px;
+  top: 12px;
+}
+
+#icons{
+  left: 45px;
+  top: 100px;
+  
+}
+
+#icons1{
+  left: 300px;
+  top: 100px;
+  
+}
+#icons2{
+  left: 550px;
+  top: 100px;
+  
+}
+
+#icons3{
+  right:45px ;
+  top: 100px;
+
+}
+
+#icons4{
+  right:-300px ;
+  top: -420px;
+
+}
